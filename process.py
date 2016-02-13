@@ -61,5 +61,5 @@ def composite_full_image(main_image_file, profile_image_file, profile_name, soci
 	canvas.save(output_file)
 	return output_file
 
-final_output = composite_full_image('images/image001.png', 'images/image002.png', 'Cameron Ehrlich', 'images/social-instagram.png')
+final_output = composite_full_image('images/image001.png', 'images/image002.png', 'Drunk Uncle', 'images/social-instagram.png')
 print final_output
