@@ -1,0 +1,4 @@
+
+# pip install Pillow
+# Get list of images
+# Convert all to 600X600 pngs, names sequentially img001.png, img002.png, img003.png, etc...  
